@@ -7,5 +7,8 @@ public class Main {
 
         PrimeNumberTask primeNumberTask = new PrimeNumberTask();
         primeNumberTask.isPrimeNumber(4);
+
+        StringPalindromeTask stringPalindromeTask = new StringPalindromeTask();
+        stringPalindromeTask.isStringPalindrome("Bob");
     }
 }
