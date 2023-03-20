@@ -16,5 +16,8 @@ public class Main {
 
         ArmstrongNumberTask armstrongNumberTask = new ArmstrongNumberTask();
         armstrongNumberTask.isArmstrongNumber(153);
+
+        FactorialTask factorialTask = new FactorialTask();
+        factorialTask.getFactorial(1);
     }
 }
