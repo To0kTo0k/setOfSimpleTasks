@@ -13,5 +13,8 @@ public class Main {
 
         IntegerPalindromeTask integerPalindromeTask = new IntegerPalindromeTask();
         integerPalindromeTask.isIntegerPalindrome(10221);
+
+        ArmstrongNumberTask armstrongNumberTask = new ArmstrongNumberTask();
+        armstrongNumberTask.isArmstrongNumber(153);
     }
 }
