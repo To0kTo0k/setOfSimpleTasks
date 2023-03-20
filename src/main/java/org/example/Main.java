@@ -10,5 +10,8 @@ public class Main {
 
         StringPalindromeTask stringPalindromeTask = new StringPalindromeTask();
         stringPalindromeTask.isStringPalindrome("Bob");
+
+        IntegerPalindromeTask integerPalindromeTask = new IntegerPalindromeTask();
+        integerPalindromeTask.isIntegerPalindrome(10221);
     }
 }
