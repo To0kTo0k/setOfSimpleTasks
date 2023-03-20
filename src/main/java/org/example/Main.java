@@ -19,5 +19,8 @@ public class Main {
 
         FactorialTask factorialTask = new FactorialTask();
         factorialTask.getFactorial(1);
+
+        ReverseStringTask reverseStringTask = new ReverseStringTask();
+        reverseStringTask.getReverseString("abcdefg");
     }
 }

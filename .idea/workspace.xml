@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fa44a64-6c1d-4827-bf29-e0dd6e491a08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FactorialTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseStringTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <workItem from="1679055498835" duration="1108000" />
       <workItem from="1679124460363" duration="2000" />
       <workItem from="1679124483019" duration="2945000" />
-      <workItem from="1679291881235" duration="7389000" />
+      <workItem from="1679291881235" duration="8808000" />
     </task>
     <servers />
   </component>
